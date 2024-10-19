@@ -6,11 +6,11 @@ import pandas as pd
 import re
 
 # Load environment variables
-load_dotenv(dotenv_path='s:/College/Pasal Terkait/.env')
+load_dotenv()
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
-print("OPENAI_API_KEY:", OPENAI_API_KEY)
+
 # Set API key OpenAI
-client = OpenAI(api_key=OPENAI_API_KEY) # Ganti dengan API key kamu
+client = OpenAI(api_key=OPENAI_API_KEY) # Ganti dengan API key Anda
 
 # Fungsi untuk mendapatkan embedding menggunakan OpenAI
 def get_embedding(text, model="text-embedding-3-small"):
