@@ -13,7 +13,7 @@
 ### 1. **Paham Satu Menit**
 
 ![Paham Satu Menit](images/PahamSatuMenit_(2).jpeg)
-**PahamSatuMenit** adalah fitur yang menyajikan rangkuman berita politik terkini secara cepat dan akurat, hanya dalam satu menit. Kami memanfaatkan **data berita** dari seluruh website di internet dan platform media sosial, kemudian merangkumnya menggunakan teknologi **text summarization** berbasis **Large Language Model GPT-4o Mini**. Dengan teknologi ini, kami mampu mengemas berita secara sederhana namun informatif, sehingga semua pembaca, mulai dari profesional hingga masyarakat awam, dapat memahami isu-isu politik yang sedang hangat di Indonesia.
+**PahamSatuMenit** adalah fitur yang menyajikan rangkuman berita politik terkini secara cepat dan akurat, hanya dalam satu menit. Kami memanfaatkan **data berita** dari seluruh website di internet dan platform media sosial, kemudian merangkumnya menggunakan teknologi **text summarization** berbasis **Large Language Model** [GPT 4o-Mini](https://platform.openai.com/docs/models/gpt-4o-mini). Dengan teknologi ini, kami mampu mengemas berita secara sederhana namun informatif, sehingga semua pembaca, mulai dari profesional hingga masyarakat awam, dapat memahami isu-isu politik yang sedang hangat di Indonesia.
 
 Fitur ini dirancang agar setiap orang dapat memperoleh gambaran yang **objektif** tentang berita atau kebijakan yang diberlakukan oleh pemerintah. Dengan sajian ringkas dan jelas, **PahamSatuMenit** membantu Anda menilai apakah suatu kebijakan benar-benar membawa manfaat bagi rakyat atau tidak, tanpa perlu menghabiskan banyak waktu untuk membaca berita panjang.
 
