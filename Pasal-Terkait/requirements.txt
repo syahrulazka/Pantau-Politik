@@ -1,0 +1,6 @@
+openai=1.52.0
+pandas=2.2.3
+PyPDF2=3.0.1
+regex=2024.9.11
+scikit-learn=1.5.2
+python-dotenv=1.0.1
