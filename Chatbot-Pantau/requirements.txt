@@ -1,0 +1,11 @@
+aiohttp==3.10.10
+chromadb==0.5.13
+langchain==0.3.3
+langchain-chroma==0.1.4
+langchain-openai==0.2.2
+langchain-community==0.3.2
+openai==1.51.2
+pandas==2.2.3
+python-dotenv==1.0.1
+pypdf==5.0.1
+tenacity==8.5.0
