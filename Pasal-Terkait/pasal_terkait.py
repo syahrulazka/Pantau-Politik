@@ -19,7 +19,7 @@ def get_embedding(text, model="text-embedding-3-small"):
     return response.data[0].embedding
 
 # Load DataFrame dari file CSV yang berisi embedding dari data undang-undang/regulasi
-df_undang_undang = pd.read_csv('S:/College/Pasal Terkait/regulasi_embeddings.csv')
+df_undang_undang = pd.read_csv('S:/College/Pasal Terkait/regulasi_embeddings.csv') # Ganti dengan path yang sesuai
 
 # Load embedding dari CSV, perlu diubah menjadi tipe array agar bisa digunakan
 df_undang_undang['Embedding'] = df_undang_undang['Embedding'].apply(eval)
